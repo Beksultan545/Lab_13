@@ -39,6 +39,7 @@ cd task1 && npx expo start
 | Notifications | Хабарландырулар (badge: 5) |
 | Profile | Профиль |
 
+
 ### Іске қосу
 ```bash
 cd task2 && npx expo start
