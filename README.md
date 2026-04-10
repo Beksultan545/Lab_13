@@ -29,6 +29,7 @@ cd task1 && npx expo start
 
 ## Task 2 — Bottom Tab Navigation
 
+
 4 таб + әр табта өз Stack Navigator.
 
 
