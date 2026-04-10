@@ -31,6 +31,7 @@ cd task1 && npx expo start
 
 4 таб + әр табта өз Stack Navigator.
 
+
 ### Табтар
 | Tab | Сипаттама |
 |-----|-----------|
